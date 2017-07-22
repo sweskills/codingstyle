@@ -1,7 +1,10 @@
 # Coding Style
 
-Clean Code guidelines
-(Source : https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
+This page will document the Sweskills coding standard that all trainees should follow. 
+
+
+Clean Code guidelines 
+These below guidelines is copied and adapted from  https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29 . It is a summary of the guideliness in the ['Clean Code' by Robert C. Martin](https://books.google.co.uk/books?id=_i6bDeoCQzsC&lpg=PP1&dq=clean%20code&pg=PP1#v=onepage&q&f=false) . It is recommended you read this text. 
 
 Code is clean if it can be understood easily – by everyone on the team. Clean code can be read and enhanced by a developer other than its original author. With understandability comes readability, changeability, extensibility and maintainability.
 _____________________________________
